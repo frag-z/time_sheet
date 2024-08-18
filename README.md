@@ -3,6 +3,8 @@
   - 2:00:00
 - description
   - configured nvim to work with terminals easier
+- aboutodo
+  - finish the server side code that consumes input snapshots, and then send over game updates
 - commits
   - https://github.com/frag-z/server/commit/2e6de86526596d4a851e284500a438d6988f1eeb
 
